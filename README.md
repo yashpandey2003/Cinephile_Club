@@ -1,3 +1,9 @@
+YOU CAN SEE THIS APP DEPLOYED ON :- https://celadon-puppy-9e9d3e.netlify.app/
+
+Cinephile Club
+
+A react app where you can find latest movies description, ratings, production house details. It also helps you to find top-rated movies at one place.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
